@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghoastae
+- 👋 Hi, I’m @Ghoastae AND THIS IS JACKASS
 - 👀 I’m interested in doing more pygame projects 
 - 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on nothing really
